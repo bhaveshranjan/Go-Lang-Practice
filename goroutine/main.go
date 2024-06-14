@@ -24,3 +24,10 @@ func main() {
 
 	time.Sleep(3000 * time.Millisecond)
 }
+
+// Output :-
+
+// learning goroutines
+// Hi Bhavesh :)
+// Hello World !
+// Say hello function ended
